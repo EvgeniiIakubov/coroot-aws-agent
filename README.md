@@ -1,3 +1,10 @@
+## 🚨 Deprecation notice
+
+**This repository is deprecated.**  
+The Coroot AWS Agent has been merged into the [**coroot/coroot-cluster-agent**](https://github.com/coroot/coroot-cluster-agent) repository.
+
+All further development and updates will take place there.
+
 # Coroot-aws-agent
 
 Coroot-aws-agent is an open-source prometheus exporter that gathers metrics from AWS services.
